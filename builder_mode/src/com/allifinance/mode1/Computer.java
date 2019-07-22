@@ -1,4 +1,4 @@
-package com.allifinance;
+package com.allifinance.mode1;
 
 /**
  * @author: lvqz
